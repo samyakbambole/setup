@@ -1,0 +1,11 @@
+{
+     "workbench.startupEditor": "newUntitledFile",
+     "files.autoSave": "afterDelay",
+     "workbench.iconTheme": "vscode-icons",
+     "editor.fontSize": 22,
+     "workbench.colorTheme": "Tomorrow Night Blue",
+     "explorer.confirmDelete": false,
+     "editor.tabSize": 5,
+     "window.zoomLevel": -1,
+     "git.ignoreWindowsGit27Warning": true
+}

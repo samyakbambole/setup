@@ -1,0 +1,12 @@
+## TODO for Laptop / PC Setup. 
+
+- [x] Things to download
+     - [x] Node.js
+     - [x] Visual Studio Code
+     - [x] Chrome Web Browser OR Firefox Developer Edition
+     - [x] Windows Terminal From the Microsoft Store
+     - [x] Git 
+     - [x] Links to all of these
+
+- [x] Visual Studio Code Extentions
+- [x] Visual Studio Code Preferences file
