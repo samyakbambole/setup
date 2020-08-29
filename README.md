@@ -14,3 +14,10 @@
 ### Visual Studio Code Extentions
 - [x] vscode-icons
 - [x] Live Share
+
+### NPM Packages I often use :
+- [x] Nodemon (Locally and Globally)
+- [x] Express (Locally)
+- [x] Socket.io (Locally)
+- [x] Chalk (Locally)
+- [x] Discord.js (Locally)
