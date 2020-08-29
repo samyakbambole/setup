@@ -9,7 +9,7 @@
 - [x] [Windows Terminal From the Microsoft Store](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701)
 - [x] [Git](https://git-scm.com/)
 
-### For The Visual Studio Code preferences, go to vscodeSettings.json file above. 
+### For The Visual Studio Code preferences, go to [vscodeSettings.json](https://github.com/samyakbambole/setup/blob/master/vscodeSettings.json) file above. 
 
 ### Visual Studio Code Extentions
 - [x] vscode-icons
