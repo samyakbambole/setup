@@ -21,3 +21,4 @@
 - [x] Socket.io (Locally)
 - [x] Chalk (Locally)
 - [x] Discord.js (Locally)
+- Links for these packages can be found in [npmPackages.json](https://github.com/samyakbambole/setup/blob/master/npmPackages.json) file. 

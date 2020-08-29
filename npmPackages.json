@@ -1,0 +1,7 @@
+{
+     "nodemon": "https://www.npmjs.com/package/nodemon", 
+     "express": "https://www.npmjs.com/package/express",
+     "socket.io": "https://www.npmjs.com/package/socket.io",
+     "chalk": "https://www.npmjs.com/package/chalk",
+     "discord.js": "https://www.npmjs.com/package/discord.js"
+}
