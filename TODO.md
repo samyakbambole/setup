@@ -1,4 +1,4 @@
-## TODO for Laptop / PC Setup. 
+## TODO for Laptop / PC Setup. This all stuff must be written in the README.md
 
 - [x] Things to download
      - [x] Node.js
