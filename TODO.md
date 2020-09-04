@@ -10,3 +10,8 @@
 
 - [x] Visual Studio Code Extentions
 - [x] Visual Studio Code Preferences file
+- [ ] PC Requirements (Minimum)
+     - [ ] Intel Core i3
+     - [ ] 6 GB Ram
+     - [ ] Windows 10 Pro / Home
+- [ ] External Keyboard strictly required. 
